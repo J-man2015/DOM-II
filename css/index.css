@@ -271,6 +271,9 @@ img {
     width: 100%;
   }
 }
+.home .content-section .img-content .doubleclick {
+  transform: scale(1.3);
+}
 .home .inverse-content {
   padding-bottom: 30px;
   border-bottom: 2px dashed #C0C0C0;
