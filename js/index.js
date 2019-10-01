@@ -23,7 +23,7 @@ document.addEventListener('keydown', (event) =>{
 
 document.addEventListener('keydown', (event) =>{
     if(event.key === 'b'){
-        alert("Good Job Sonny!");
+        alert("You pressed the b key");
     }
 });
 
